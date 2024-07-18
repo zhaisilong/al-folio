@@ -23,6 +23,8 @@ _config.yml:
     - Blog: blog 页面的开头
 ```
 
+- git flow 需要更新 `LIGHTHOUSE_BADGER_TOKEN`
+
 ## 使用
 
 - 本页面
