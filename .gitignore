@@ -15,5 +15,3 @@ vendor
 # User added
 .history
 tmp
-/package-lock.json
-/package.json
