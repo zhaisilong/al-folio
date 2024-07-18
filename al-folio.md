@@ -30,3 +30,5 @@ _config.yml:
 ```markdown
 [publications page](/al-folio/publications/)
 ```
+
+- `baseurl` 应该为空，否则会 prettier 失败
