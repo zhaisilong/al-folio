@@ -3,9 +3,9 @@ layout: post
 title: How to Charge
 date: 2021-10-21 22:40:11
 description: 如何正确使用锂电池
-tags: saysay
-categories: saysay
-featured: true
+tags: life
+categories: world
+featured: false
 ---
 
 电池是一种易耗品，其寿命是一定的（充放电次数通常为300-500次），因此掌握正确的使用方法是电池“延年益寿”的秘诀。
