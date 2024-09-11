@@ -15,7 +15,11 @@ _pages:
     - teaching.md: 课程
     - profiles: 实验室成员
     - dropdown: 下拉菜单
+    - about: 开始界面
 _news: about 页面的新闻
+_projects: 项目
+_bibliography:
+    - papers.bib
 ```
 
 ```bash
