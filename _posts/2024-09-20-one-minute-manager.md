@@ -4,7 +4,7 @@ title: One Minute Manager
 date: 2024-09-10 09:48:16
 description: "一分钟管理法是通过简单、明确的方式帮助管理者和员工快速提升工作表现的有效管理技巧，主要包括“一分钟目标”、“一分钟称赞”和“一分钟更正”三个步骤。"
 tags: [research, manager, book]
-categories: manager
+categories: insight
 featured: true
 ---
 
