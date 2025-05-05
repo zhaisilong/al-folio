@@ -5,6 +5,7 @@
 ```bash
 docker compose up  # 启动
 docker compose up -d  # 后台启动
+docker compose down  # 关闭
 ```
 
 ## Description
